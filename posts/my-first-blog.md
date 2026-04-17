@@ -1,8 +1,8 @@
 ---
-title: Potential ideas
+title: Concept Development for a Community Hub
 date: 2026-04-15
 author: Qiuyue Xu
-summary: Exploring initial concepts for a community-driven web application and justifying the transition from a second-hand marketplace to a Vintage Hub.
+summary: This blog documents the early-stage ideation and feasibility evaluation process for a community-driven web application. It explores multiple concept directions and explains the transition from a generic second-hand marketplace to a vintage-focused platform.
 tags:
   - Requirement Analysis
   - Brainstorming
