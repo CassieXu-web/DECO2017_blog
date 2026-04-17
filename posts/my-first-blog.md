@@ -12,4 +12,4 @@ After reading the Design Brief 2026, I recognized that the primary mandate is to
 
 While I initially chose a second-hand platform for its feasibility, I realized "Second-hand" often implies utility over emotion. I pivoted the concept from a **Generic Second-hand Site** to ** A Vintage Hub** where user not only can 买卖物品，还可以展示和以物换物，用户可以拥有一personal的中古博物馆
 
-![potential ideas brainstorm](assets/images/2017brainstorm.png)
+![potential ideas brainstorm](/assets/images/2017brainstorm.png)
