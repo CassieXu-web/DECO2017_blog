@@ -1,15 +1,40 @@
 ---
-title: potential ideas
+title: Potential ideas
 date: 2026-04-15
 author: Qiuyue Xu
-summary: The first blog post where I go over the brief and consider a few potential concepts.
+summary: Exploring initial concepts for a community-driven web application and justifying the transition from a second-hand marketplace to a Vintage Hub.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Requirement Analysis
+  - Brainstorming
+  - Feasibility Study
+  - VintaArchive
 ---
-After reading the Design Brief 2026, I recognized that the primary mandate is to architect a bespoke community hub which is a digital ecosystem where individuals with shared passions can gather and discuss. To explore the multifaceted possibilities of this mandate, I initiated a comprehensive brainstorming. I listed all topics what I am interested in first, such as photographing, drawing, travelling, pets and shopping. And then I go deeper each topic to make it more interesting and more business values. I analysized the main functions, 
+## Requirement Analysis
+After reviewing the Design Brief 2026, I understood that the goal of this project is not simply to build a functional website, but to design a **digital community hub**: a space where people with shared interests can gather, interact, and contribute meaningfully. This meant that my concept needed to support more than just content consumption. It needed to create opportunities for participation, exchange, and a sense of belonging.
 
-While I initially chose a second-hand platform for its feasibility, I realized "Second-hand" often implies utility over emotion. I pivoted the concept from a **Generic Second-hand Site** to ** A Vintage Hub** where user not only can 买卖物品，还可以展示和以物换物，用户可以拥有一personal的中古博物馆
+## Brainstorming
+This interpretation guided my initial brainstorming. I started by listing several topics I am personally interested in, including photography, drawing, travelling, pets, and shopping. These interests gave me a useful starting point, but personal interest alone was not enough to justify a direction. **Each idea also needed to be evaluated** in relation to the brief, especially in terms of interaction potential, emotional engagement, and technical feasibility.
 
-![potential ideas brainstorm](/assets/images/2017brainstorm.png)
+## Feasibility Study
+Several directions were considered during this stage.
+
+- One idea was a **pet travel platform**, where users could share pet-friendly travel destinations, advice, and experiences. However...
+
+- Another concept was a **platform for photographers to find shooting partners and discover photo locations**. This idea has strong social value, as it encourages collaboration and offline interaction. However, it also overlaps with existing social media and location-based platforms, making it harder to ...
+
+- I also considered a **dream interpretation and recording website**, where users could document dreams and discuss possible meanings. Conceptually, this idea felt interesting but it would depend heavily on large amounts of written content and offer fewer opportunities for rich visual design.
+
+- A **collaborative drawing studio** was another promising direction. However, real-time collaborative drawing would require more technically complex implementation, such as live synchronisation, I do some research about it and found out that it may not be realistic within the current project scope.
+
+- After comparing these options, I was drawn to the idea of a **second-hand trading platform**. This concept seemed feasible and flexible, with clear opportunities for user accounts, item listings, exchanges, and community interaction. I was particularly interested in the potential for a **bartering feature**, which could make the platform feel more participatory than a standard buy-and-sell marketplace.
+
+![potential ideas brainstorm](/DECO2017_blog/assets/images/2017brainstorm.png){:width="300px"}
+
+## VintaArchive
+Although the second-hand marketplace idea was practical, I realised that practicality alone was not enough. A generic second-hand platform often prioritises function, efficiency, and price, making the experience feel transactional rather than personal. It could work as a marketplace, but not necessarily as a meaningful community hub.
+
+This led me to shift the concept from second-hand goods in general to a more specific focus on vintage objects. Unlike ordinary used items, vintage objects often carry aesthetic, historical, and emotional value. People collect them not only for utility, but also for taste, memory, identity, and story. This makes vintage culture more suitable for a passion-based community.
+
+As a result, the concept evolved into **VintaArchive**, a vintage-focused hub where users can not only buy, sell, and barter items, but also exhibit treasured objects and share the stories behind them. For example, a user could upload a vintage camera and describe its age, origin, and personal significance, creating a kind of digital vintage museum.
+
+This shift makes the platform more distinctive and emotionally engaging, although it also introduces greater complexity and appeals to a more specific audience. Even so, I believe this narrower but richer direction better supports meaningful community interaction and aligns more strongly with the brief.
