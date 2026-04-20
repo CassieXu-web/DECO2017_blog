@@ -1,7 +1,7 @@
 ---
 title: Concept Development for a Community Hub
-date: 2026-04-15
-author: Qiuyue Xu
+date: 2026-04-14
+author: Qiuyue(Cassie) Xu
 summary: This blog documents the early-stage ideation and feasibility evaluation process for a community-driven web application. It explores multiple concept directions and explains the transition from a generic second-hand marketplace to a vintage-focused platform.
 tags:
   - Requirement Analysis
@@ -28,7 +28,7 @@ Several directions were considered during this stage.
 
 - After comparing these options, I was drawn to the idea of a **second-hand trading platform**. This concept seemed feasible and flexible, with clear opportunities for user accounts, item listings, exchanges, and community interaction. I was particularly interested in the potential for a **bartering feature**, which could make the platform feel more participatory than a standard buy-and-sell marketplace.
 
-![potential ideas brainstorm](/DECO2017_blog/assets/images/2017brainstorm.png){:width="300px"}
+![potential ideas brainstorm](/DECO2017_blog/assets/images/2017brainstorm.png)
 
 ## VintaArchive
 Although the second-hand marketplace idea was practical, I realised that practicality alone was not enough. A generic second-hand platform often prioritises function, efficiency, and price, making the experience feel transactional rather than personal. It could work as a marketplace, but not necessarily as a meaningful community hub.
