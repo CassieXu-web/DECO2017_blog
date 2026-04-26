@@ -61,3 +61,8 @@ ul.tags-list {
 ul.post-list{
     list-style: none;
 }
+
+/* Targetted css rule */
+img {
+  width: 100%;
+}
