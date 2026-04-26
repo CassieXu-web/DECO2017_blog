@@ -1,5 +1,5 @@
 ---
-title: Concept Development for a Community Hub
+title: 1. Concept Development for a Community Hub
 date: 2026-04-14
 author: Qiuyue(Cassie) Xu
 summary: This blog documents the early-stage ideation and feasibility evaluation process for a community-driven web application. It explores multiple concept directions and explains the transition from a generic second-hand marketplace to a vintage-focused platform.
