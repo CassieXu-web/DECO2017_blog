@@ -28,4 +28,3 @@ The sitemap is organised into three primary sections: Exhibition, Marketplace an
 - The **Profile** section integrates both personal expression and transaction management.
 
 Due to the limited timeframe and technical constraints of the project, the Exhibition feature is prioritised as the core functionality. This decision is justified by its strong alignment with user needs, its uniqueness compared to existing platforms, and its feasibility for implementation within the available resources. In contrast, the Marketplace is intentionally scoped down to avoid unnecessary complexity while still supporting basic functionality.
-
