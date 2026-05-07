@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: 5. Evaluation, Accessibility, and Ethical Considerations
 date: 2026-02-14
 author: Qiuyue Xu
 summary: Short description

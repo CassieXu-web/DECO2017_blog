@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: 6. Technical Reflection and Future Development
 date: 2026-02-14
 author: Qiuyue Xu
 summary: Short description
