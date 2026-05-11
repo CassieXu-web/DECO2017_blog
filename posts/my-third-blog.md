@@ -2,7 +2,7 @@
 title: 3. User Flow and Interface Development
 date: 2026-04-26
 author: Qiuyue(Cassie) Xu
-summary: This post outlines the development of user flows, wireframes, and visual direction, demonstrating how design decisions are informed by user needs and aligned with technical feasibility.
+summary: This blog outlines the development of user flows, wireframes, and visual direction, demonstrating how design decisions are informed by user needs and aligned with technical feasibility.
 tags:
   - User Flow
   - Wireframe/ wireflow
