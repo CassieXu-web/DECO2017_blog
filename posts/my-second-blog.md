@@ -2,7 +2,7 @@
 title: 2. User Research and Functional Requirements
 date: 2026-04-18
 author: Qiuyue(Cassie) Xu
-summary:  This blog presents user research findings and translates them into functional requirements and system structure for the VintaArchive platform.
+summary:  This blog presents user research findings and translates them into functional requirements and system structure for the Vintarchive platform.
 tags:
   - User Research
   - Main Functions
