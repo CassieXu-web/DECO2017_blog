@@ -18,17 +18,15 @@ This interpretation guided my initial brainstorming. I started by listing severa
 ## Feasibility Study
 Several directions were considered during this stage.
 
-- One idea was a **pet travel platform**, where users could share pet-friendly travel destinations, advice, and experiences. However...
+![potential ideas brainstorm](/DECO2017_blog/assets/images/2017brainstorm.png)
 
-- Another concept was a **platform for photographers to find shooting partners and discover photo locations**. This idea has strong social value, as it encourages collaboration and offline interaction. However, it also overlaps with existing social media and location-based platforms, making it harder to ...
+- One idea was a **platform for photographers to find shooting partners and discover photo locations**. This idea has strong social value, as it encourages collaboration and offline interaction. However, the market is currently oversaturated by giants like Instagram and 500px.
 
 - I also considered a **dream interpretation and recording website**, where users could document dreams and discuss possible meanings. Conceptually, this idea felt interesting but it would depend heavily on large amounts of written content and offer fewer opportunities for rich visual design.
 
 - A **collaborative drawing studio** was another promising direction. However, real-time collaborative drawing would require more technically complex implementation, such as live synchronisation, I do some research about it and found out that it may not be realistic within the current project scope.
 
 - After comparing these options, I was drawn to the idea of a **second-hand trading platform**. This concept seemed feasible and flexible, with clear opportunities for user accounts, item listings, exchanges, and community interaction. I was particularly interested in the potential for a **bartering feature**, which could make the platform feel more participatory than a standard buy-and-sell marketplace.
-
-![potential ideas brainstorm](/DECO2017_blog/assets/images/2017brainstorm.png)
 
 ## Vintarchive
 Although the second-hand marketplace idea was practical, I realised that practicality alone was not enough. A generic second-hand platform often prioritises function, efficiency, and price, making the experience feel transactional rather than personal. It could work as a marketplace, but not necessarily as a meaningful community hub.
