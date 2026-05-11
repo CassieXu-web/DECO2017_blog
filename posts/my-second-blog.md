@@ -10,7 +10,7 @@ tags:
 ---
 To better understand user needs and inform the main functions of this website, I conducted online research using platforms such as Reddit and Youtube. Through analysing real user experiences, I identified several key insights that directly shaped our design decisions.
 
-![online research](../assets/images/onlie%20research.png)
+![online research](/DECO2017_blog/assets/images/onlie%20research.png)
 1.	 Many users expressed that they lack an appropriate way to display and meaningfully present their collections. Vintage items are often accumulated but remain underutilised, with no dedicated space for exhibition or storytelling. In response, our platform introduces two primary functions: exhibition and marketplace. The exhibition feature allows the platform to host themed events, such as “Vintage Camera Exhibition” or “1960s Collection.” Users can upload their vintage items and share the stories behind them, transforming personal collections into curated digital exhibits. At the same time, other users can browse, like, save, and comment on these items, encouraging interaction and community engagement.
 
 2. Users frequently reported frustration with repetitive and low-quality communication when selling second-hand goods. Many sellers receive numerous messages asking basic questions, which significantly reduces efficiency. To address this issue, the marketplace feature incorporates structured item listings, including clear categorisation, description, tagging, and pricing. This helps reduce unnecessary communication by providing essential information upfront.
@@ -19,7 +19,7 @@ To better understand user needs and inform the main functions of this website, I
 
 To organise these functionalities, a sitemap was developed to define the structure of the application and its navigation logic.
 
-![online research](../assets/images/sitemap.png)
+![online research](/DECO2017_blog/assets/images/sitemap.png)
 
 The sitemap is organised into three primary sections: Exhibition, Marketplace and Profile.
 

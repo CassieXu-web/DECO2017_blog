@@ -14,7 +14,7 @@ APIs (Application Programming Interfaces) allow applications to communicate with
 
 To experiment with this idea, I used **Leaflet.js** together with **OpenStreetMap** to prototype a Sydney-based exhibition map for the VintArchive platform.
 
-![map in exhibition](../assets/images/map.png)
+![map in exhibition](/DECO2017_blog/assets/images/map.png)
 
 This creates an interactive map centred on Sydney, reinforcing the platform’s intentionally local scope. Instead of treating vintage trading as a global marketplace, the project focuses specifically on Sydney-based exchanges to improve trust, feasibility, and community connection.
 

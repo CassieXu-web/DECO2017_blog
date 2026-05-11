@@ -10,11 +10,11 @@ tags:
 ---
 Based on the sitemap developed in the previous stage, a **user flow** was created to map how users interact with the system and complete key tasks. This helped clarify not only the sequence of actions, but also how different pages are connected, ultimately informing the layout and structure of the interface.
 
-![User flow](../assets/images/user%20flow.png)
+![User flow](/DECO2017_blog/assets/images/user%20flow.png)
 
 The user flow focuses on three main sections: Exhibition, Marketplace, and Profile. To further translate these flows into interface structure, **wireframes** were developed to visualise the layout and hierarchy of each page.
 
-![Wireflow](../assets/images/wireframe.png)
+![Wireflow](/DECO2017_blog/assets/images/wireframe.png)
 
 In the Exhibition section, I designed an interaction inspired by physical gallery spaces. Each exhibition is represented as a **door**, with the theme displayed on a sign and a preview image shown as a framed poster. When users hover over a door, it slightly opens, creating a subtle and engaging visual cue. Clicking the door allows users to enter a themed exhibition.
 
@@ -24,7 +24,7 @@ The Marketplace section is designed to support efficient browsing and basic tran
 
 The Profile section allows users to manage their personal information and activity. Users can edit their profile, view items they have uploaded, and access saved or previously interacted items. This section integrates both expressive and functional aspects of the platform, supporting personal curation as well as basic management tasks.
 
-![Mood board](../assets/images/moodboard.png)
+![Mood board](/DECO2017_blog/assets/images/moodboard.png)
 
 The visual direction is informed by a vintage-inspired **mood board**. A brown colour palette was chosen to evoke warmth, nostalgia, and a sense of history, aligning with the concept of vintage collections. The logo uses a handwritten-style typeface called Inspiration to create a more personal and expressive tone.
 

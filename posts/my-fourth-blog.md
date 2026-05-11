@@ -11,11 +11,11 @@ Building on the wireframe developed in the previous stage, I began translating i
 
 The Data Definition Document (DDD) was then constructed to set up such attributes into formal structures. During this process, an important issue emerged regarding how to represent tags. Initially, I considered storing tags as a list within each item. However, this approach quickly felt problematic, as it required placing multiple values within a single attribute. This “discomfort” indicated a violation of basic data structuring principles and revealed the presence of a hidden entity. As a result, tags were separated into their own table, transforming them from a property into an independent entity.
 
-![Data Definition Document](../assets/images/DDD.png)
+![Data Definition Document](/DECO2017_blog/assets/images/DDD.png)
 
 The ERD was developed to represent relationships between entities. A key design decision was modelling the relationship between items and tags as many-to-many. Since an item can have multiple tags and each tag can be applied to multiple items, a junction table (item_tags) was introduced. This ensures flexibility and enables efficient querying using JOIN operations.
 
-![Entity Relationship Diagram](../assets/images/ERD.png)
+![Entity Relationship Diagram](/DECO2017_blog/assets/images/ERD.png)
 
 Following this, an Entity Relationship Diagram (ERD) was created to define how entities interact. A key design decision was modelling the relationship between items and tags as many-to-many. An item can have multiple tags, and each tag can apply to multiple items. To resolve this, a junction table (item_tags) was introduced. This design ensures flexibility, avoids data duplication, and supports efficient querying using JOIN operations. It also demonstrates an understanding of relational structure beyond simply listing attributes.
 
