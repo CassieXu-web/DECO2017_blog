@@ -2,12 +2,12 @@
 title: 1. Concept Development for a Community Hub
 date: 2026-04-14
 author: Qiuyue(Cassie) Xu
-summary: This blog documents the early-stage ideation and feasibility evaluation process for a community-driven web application. It explores multiple concept directions and explains the transition from a generic second-hand marketplace to a vintage-focused platform.
+summary: This blog documents the early-stage ideation and feasibility evaluation process for a community-driven website. It explores multiple concept directions and explains the transition from a generic second-hand marketplace to a vintage-focused platform.
 tags:
   - Requirement Analysis
   - Brainstorming
   - Feasibility Study
-  - VintaArchive
+  - Vintarchive
 ---
 ## Requirement Analysis
 After reviewing the Design Brief 2026, I understood that the goal of this project is not simply to build a functional website, but to design a **digital community hub**: a space where people with shared interests can gather, interact, and contribute meaningfully. This meant that my concept needed to support more than just content consumption. It needed to create opportunities for participation, exchange, and a sense of belonging.
@@ -30,11 +30,11 @@ Several directions were considered during this stage.
 
 ![potential ideas brainstorm](/DECO2017_blog/assets/images/2017brainstorm.png)
 
-## VintaArchive
+## Vintarchive
 Although the second-hand marketplace idea was practical, I realised that practicality alone was not enough. A generic second-hand platform often prioritises function, efficiency, and price, making the experience feel transactional rather than personal. It could work as a marketplace, but not necessarily as a meaningful community hub.
 
 This led me to shift the concept from second-hand goods in general to a more specific focus on vintage objects. Unlike ordinary used items, vintage objects often carry aesthetic, historical, and emotional value. People collect them not only for utility, but also for taste, memory, identity, and story. This makes vintage culture more suitable for a passion-based community.
 
-As a result, the concept evolved into **VintaArchive**, a vintage-focused hub where users can not only buy, sell, and barter items, but also exhibit treasured objects and share the stories behind them. For example, a user could upload a vintage camera and describe its age, origin, and personal significance, creating a kind of digital vintage museum.
+As a result, the concept evolved into **Vintarchive**, a vintage-focused hub where users can not only buy, sell, and barter items, but also exhibit treasured objects and share the stories behind them. For example, a user could upload a vintage camera and describe its age, origin, and personal significance, creating a kind of digital vintage museum.
 
 This shift makes the platform more distinctive and emotionally engaging, although it also introduces greater complexity and appeals to a more specific audience. Even so, I believe this narrower but richer direction better supports meaningful community interaction and aligns more strongly with the brief.
