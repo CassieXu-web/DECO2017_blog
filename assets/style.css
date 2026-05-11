@@ -22,11 +22,10 @@ body {
   line-height: 1.6;
   color: var(--text);
   background:
-    radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.9), transparent 20%),
-    radial-gradient(circle at 78% 22%, rgba(194, 210, 228, 0.75), transparent 20%),
-    radial-gradient(circle at 22% 64%, rgba(231, 201, 191, 0.7), transparent 24%),
-    radial-gradient(circle at 88% 78%, rgba(234, 235, 189, 0.75), transparent 20%),
-    linear-gradient(135deg, #fff7ee 0%, #ffd7c2 24%, #d7ebff 68%, #f7f0ba 100%);
+  radial-gradient(circle at 18% 20%, rgba(255, 255, 255, 0.92), transparent 26%),
+  radial-gradient(circle at 24% 58%, rgba(244, 200, 198, 0.3), transparent 36%),
+  radial-gradient(circle at 82% 76%, rgba(246, 231, 166, 0.34), transparent 38%),
+  linear-gradient(135deg, #fffdf9 0%, #f9e9e5 42%, #f9f4d8 100%);
   background-attachment: fixed;
 }
 
