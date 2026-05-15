@@ -1,11 +1,21 @@
 ---
-title: Post Title
-date: 2026-02-14
-author: Your Name
-summary: Short description
+title: Accessibility, Testing and Future Development
+date: 2026-05-15
+author: Qiuyue Xu
+summary: Reflecting on WCAG accessibility, testing methods, user feedback, analytics, and future improvements for Vintarchive.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Accessibility
+  - Testing
+  - Future Development
 ---
-Write your content here.
+Accessibility is not only about meeting technical requirements. It is also about designing a web experience that can be used by people with different needs, abilities, devices and contexts. In this stage of my web app prototype, I focused on evaluating my Vintage marketplace platform through WCAG accessibility principles, basic usability testing, and technical reflection. The goal was to understand whether users could navigate the website clearly, access key information, and complete important actions without confusion.
+
+The main accessibility framework I used was WCAG, especially the four POUR principles: Perceivable, Operable, Understandable and Robust. For my website, “Perceivable” means that item images, prices, tags and descriptions should be visually clear and easy to read. I checked whether text contrast was strong enough and whether images needed meaningful alternative text. “Operable” was important because users should be able to move through the site using navigation links and interactive elements without relying only on visual guessing. “Understandable” related closely to my layout, labels and navigation structure. Since my platform includes pages such as home, exhibition, item details and profile-related content, users need to quickly understand where they are and what they can do. “Robust” reminded me that the website should use semantic HTML and consistent structure so it can work across browsers and assistive technologies.
+
+My testing goal was to identify 3–5 practical issues that could affect real users, rather than only checking whether the website looked visually complete. I used a simple testing workflow. First, I reviewed the interface visually and checked whether the hierarchy, spacing and labels were clear. Second, I tested navigation manually by clicking through the main pages and checking whether users could move between sections smoothly. Third, I considered accessibility issues such as image loading, alt text, heading structure and colour contrast. Finally, I reflected on analytics-style questions: which pages would users visit most, where might they drop off, and which interactions would show whether the platform is useful?
+
+The testing results showed that the overall concept and visual direction were clear, but several areas still need improvement. Some images may fail to communicate meaning if they do not load properly or do not include alt text. This affects users with screen readers and also users with slow internet. Some navigation elements also need clearer active states so users can understand which page they are currently on. In addition, the item cards could benefit from more consistent spacing and clearer labels for price, trade type and tags. From a usability perspective, users may understand the vintage theme quickly, but the functional purpose of some pages could be made more explicit.
+
+From a technical perspective, this project helped me understand the connection between front-end design, database structure and user experience. Earlier, I focused mainly on making the interface visually match my wireframes. However, through testing, I realised that a successful web app also needs reliable routing, organised data, reusable templates and accessible markup. My database design, including users, items, tags and trade types, supports the core marketplace concept, but the interface still needs more refinement to present this data in a user-friendly way.
+
+For future development, I would improve the site in four main ways. First, I would add meaningful alt text for all item images and improve image fallback states. Second, I would refine the navigation bar with clearer hover and active styles. Third, I would use analytics to track important user behaviour, such as which item categories are viewed most and whether users click into item detail pages. Finally, I would continue improving the responsive layout so the platform works better on mobile devices. Overall, this testing process showed me that accessibility and usability are not final checklist tasks. They are ongoing design decisions that make the product more inclusive, reliable and professional.
