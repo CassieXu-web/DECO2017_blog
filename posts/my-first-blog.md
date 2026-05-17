@@ -7,7 +7,7 @@ tags:
   - Requirement Analysis
   - Brainstorming
   - Feasibility Study
-  - Vintarchive
+  - VintaArchive
 ---
 ## Requirement Analysis
 After reviewing the Design Brief 2026, I understood that the goal of this project is not simply to build a functional website, but to design a **digital community hub**: a space where people with shared interests can gather, interact, and contribute meaningfully. This meant that my concept needed to support more than just content consumption. It needed to create opportunities for participation, exchange, and a sense of belonging.
@@ -28,11 +28,11 @@ Several directions were considered during this stage.
 
 - After comparing these options, I was drawn to the idea of a **second-hand trading platform**. This concept seemed feasible and flexible, with clear opportunities for user accounts, item listings, exchanges, and community interaction. I was particularly interested in the potential for a **bartering feature**, which could make the platform feel more participatory than a standard buy-and-sell marketplace.
 
-## Vintarchive
+## VintaArchive
 Although the second-hand marketplace idea was practical, I realised that practicality alone was not enough. A generic second-hand platform often prioritises function, efficiency, and price, making the experience feel transactional rather than personal. It could work as a marketplace, but not necessarily as a meaningful community hub.
 
 This led me to shift the concept from second-hand goods in general to a more specific focus on vintage objects. Unlike ordinary used items, vintage objects often carry aesthetic, historical, and emotional value. People collect them not only for utility, but also for taste, memory, identity, and story. This makes vintage culture more suitable for a passion-based community.
 
-As a result, the concept evolved into **Vintarchive**, a vintage-focused hub where users can not only buy, sell, and barter items, but also exhibit treasured objects and share the stories behind them. For example, a user could upload a vintage camera and describe its age, origin, and personal significance, creating a kind of digital vintage museum.
+As a result, the concept evolved into **VintaArchive**, a vintage-focused hub where users can not only buy, sell, and barter items, but also exhibit treasured objects and share the stories behind them. For example, a user could upload a vintage camera and describe its age, origin, and personal significance, creating a kind of digital vintage museum.
 
 This shift makes the platform more distinctive and emotionally engaging, although it also introduces greater complexity and appeals to a more specific audience. Even so, I believe this narrower but richer direction better supports meaningful community interaction and aligns more strongly with the brief.

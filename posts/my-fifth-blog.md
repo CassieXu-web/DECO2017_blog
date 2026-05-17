@@ -12,7 +12,7 @@ As the project developed further, I began exploring how external APIs could exte
 
 APIs (Application Programming Interfaces) allow applications to communicate with external services and retrieve data or functionality without building everything from scratch. Rather than developing a custom map system independently, APIs allow developers to integrate existing services such as maps, geolocation, and routing into a web application. This makes development more efficient while also introducing real-world technical considerations such as authentication, quotas, and security.
 
-To experiment with this idea, I used **Leaflet.js** together with **OpenStreetMap** to prototype a Sydney-based exhibition map for the VintArchive platform.
+To experiment with this idea, I used **Leaflet.js** together with **OpenStreetMap** to prototype a Sydney-based exhibition map for the VintaArchive platform.
 
 ![map in exhibition](/DECO2017_blog/assets/images/map.png)
 
