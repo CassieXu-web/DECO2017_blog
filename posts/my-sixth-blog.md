@@ -1,38 +1,21 @@
 ---
-title: 6. Technical Reflection and Future Development
-date: 2026-05-13
+title: 6. Accessibility, Testing and Future Development
+date: 2026-05-15
 author: Qiuyue Xu
-summary: A critical reflection on the development journey of VintaArchive, focusing on compliance, evaluation strategies, and future scalability.
+summary: Reflecting on WCAG accessibility, usability testing, authentication, analytics, and future improvements for VintaArchive.
 tags:
-  - Reflective Practice
   - Accessibility
+  - Testing
   - Future Development
 ---
-**The Evolutionary Journey: From Tool to Narrative**
+Accessibility is not only about meeting technical requirements. It is also about designing a web experience that can be used by people with different needs, abilities, devices and contexts. At this stage of the VintaArchive prototype, I evaluated the platform through WCAG accessibility principles, usability testing, technical reflection, and future development planning. The goal was to understand whether users could navigate the website clearly, access key information, and complete important actions such as browsing exhibitions, viewing item details, logging in, saving items, and managing their personal activity.
 
-As the development of VintaArchive reaches its initial milestone, reflecting on the journey reveals a significant shift from my Week 6 assumptions. Initially, I viewed the project through a transactional lens—a place to buy and sell. However, the most critical "pivot" was recognizing that a vintage community thrives on provenance and storytelling.
+The main accessibility framework I used was WCAG, especially the four POUR principles: Perceivable, Operable, Understandable and Robust. For my website, “Perceivable” means that item images, prices, tags, descriptions, and exhibition information should be visually clear and easy to read. Since the visual style uses a brown vintage colour palette, I needed to check whether contrast remained strong enough and whether images were supported with meaningful alt text. “Operable” was important because users should be able to move through the site using clear navigation links, buttons, and interactive elements. This is especially relevant to my exhibition interface, where users enter exhibitions through door-like interactions. These interactions should not rely only on hover, because some users may use touchscreens or keyboard navigation. “Understandable” relates to page structure, labels, and user feedback. Since VintaArchive includes exhibitions, marketplace listings, profile pages, and item forms, users need to quickly understand where they are and what actions are available. “Robust” reminded me to use semantic HTML, consistent templates, and clear form structures so the website can work more reliably across browsers and assistive technologies.
 
-This transition necessitated a trade-off: I prioritized the "Personal Museum" exhibition feature over a complex real-time bidding system. While the latter would have added technical "flair," the former directly addresses the core functional requirement of fostering a "bespoke community hub." This decision allowed for a more robust data structure (as discussed in my ERD post), ensuring that the emotional value of an object is as searchable as its price.
+My testing goal was to identify practical issues that could affect real users, rather than only checking whether the website looked visually complete. I used a simple workflow: first, I reviewed the interface visually to check hierarchy, spacing, and labels. Second, I manually tested navigation across the main pages. Third, I checked accessibility issues such as image loading, alt text, heading structure, colour contrast, and button clarity. Finally, I tested functional edge cases, including registration and login behaviour.
 
-**Planning for Evaluation: Measuring Success**
+One important technical area was authentication and cookies. Since the platform includes personalised features such as liked items, favourites, uploaded items, and profile content, the system needs to distinguish between users. When a user registers, their email is stored in the database, and duplicate email registration is rejected. This prevents multiple accounts from using the same email and supports data integrity. Cookies are then used to maintain login state, so each user sees a personalised version of the site. After logging out and logging back in, users can still access their previous likes and saved items because this information is stored in the database rather than only on the page.
 
-To ensure VintaArchive moves beyond a prototype, I have architected a two-tiered evaluation plan:
+The testing results showed that the overall concept and visual direction were clear, but several areas still need improvement. Some images need better fallback states and alt text. Navigation elements should have clearer hover and active states so users know their current location. Item cards also need more consistent spacing and clearer labels for price, trade type, and tags. From a usability perspective, the vintage theme is understandable, but some functional actions, such as “barter” or “save”, could be made more explicit.
 
-Usability Testing (Qualitative): I plan to conduct "Think-Aloud" sessions with five vintage collectors. The key metric is the "Time to Narrative"—how long it takes for a user to transition from uploading a photo to successfully documenting the item’s history. If the UI obscures the storytelling process, the project fails its primary mission.
-
-Performance Benchmarking (Quantitative): Given the high-resolution nature of vintage item photography, I will use Google Lighthouse to monitor image optimization and "Largest Contentful Paint" (LCP). Ensuring a fast load time on mobile devices is crucial for users browsing offline at vintage flea markets in Sydney.
-
-**Responsibility and Compliance: Design for Everyone**
-
-In alignment with professional standards, I have focused heavily on LO3: Responsibility and Compliance:
-
-Inclusive Design (Accessibility): While "vintage" aesthetics often favor muted, low-contrast palettes, I have cross-referenced my UI against WCAG 2.1 (AA) guidelines. I implemented high-contrast focus states and ensured that every "museum exhibit" supports descriptive ARIA labels. This ensures that the history of these objects is accessible to users with visual impairments.
-
-Data Ethics and Privacy: Users are not just uploading data; they are sharing memories. I have implemented a "Right to be Forgotten" protocol, ensuring users can completely wipe their digital museum footprint. Furthermore, I have designed the system to minimize data collection, adhering to GDPR principles of data minimization.
-
-**The Horizon: Future Development**
-
-Looking ahead, the next iteration of VintaArchive will explore AI-assisted provenance. By integrating image recognition APIs, the platform could automatically suggest the era or manufacturing details of a vintage item, reducing the barrier to entry for new collectors.
-
-Conclusion:
-VintaArchive has evolved from a simple concept into a thoughtful ecosystem. This project has taught me that web development is not just about writing code; it is about managing the delicate balance between technical constraints, user needs, and ethical responsibilities.
+For future development, I would improve the site in four main ways. First, I would strengthen accessibility by adding alt text, improving contrast, and supporting keyboard navigation. Second, I would refine the authentication flow with clearer error messages and more secure session handling. Third, I would use analytics to track important behaviours, such as which exhibitions users enter, which categories are viewed most, and where users drop off. Finally, I would continue improving responsive layouts for mobile users. Overall, this process showed me that accessibility, testing, and technical responsibility are not final checklist tasks. They are ongoing decisions that make the product more inclusive, reliable, and professional.
