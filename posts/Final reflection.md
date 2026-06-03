@@ -14,7 +14,7 @@ During A2, our focus was mainly on building the core structure of the website an
 
 One important iteration during development was the Marketplace filtering system. In the earlier version, all category tags were displayed together in one large group. Although this gave users many filtering options, the interface felt visually cluttered and made it difficult for users to quickly decide which tag to select. Based on this issue, we reorganised the tags into two clearer groups: Object Type and Era. This iteration reduced cognitive load and made the filtering system easier to scan, helping users browse marketplace items more efficiently. 
 
-![tags iteration](/DECO2017_blog/assets/images/tags.png)
+![tags iteration](/DECO2017_blog/assets/images/tags.jpg)
 
 After completing the website, I used **Lighthouse** to evaluate the technical performance and accessibility of the website. Overall, the desktop result was stronger than the mobile result, which showed that the prototype still needs improvement in responsive design. The Lighthouse report showed strong scores in Accessibility, Best Practices and SEO, but the Performance score was lower. This was useful because it revealed that the main technical weakness of VintaArchive was not whether the interface could function, but how efficiently the visual content loaded, especially in a mobile testing environment.
 
