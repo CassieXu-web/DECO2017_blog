@@ -22,7 +22,7 @@ After completing the website, I used **Lighthouse** to evaluate the technical pe
 
 The **Performance** result showed that the page had a **high LCP (Largest Contentful Paint) value**. This means the largest visible element on the page took too long to load. In the context of VintaArchive, this result makes sense because the website relies heavily on visual assets, including vintage item images, textured backgrounds and decorative elements. These images increase the weight of the page and can slow down loading, especially on mobile or slower networks. In future development, I would reduce unused CSS, compress large images, convert key images to WebP format, and set explicit width and height values for images to prevent unstable loading. 
 
-![LCP insight](/DECO2017_blog/assets/images/lcpsight.png)
+![LCP insight](/DECO2017_blog/assets/images/lcpinsight.png)
 
 **Accessibility** was one of the stronger areas of the Lighthouse report, but I did not treat a high score as proof that the website was fully accessible. Lighthouse identified that some background and foreground colours do not have a sufficient contrast ratio. This issue is closely connected to my visual direction. VintaArchive uses a warm brown, beige and low-saturation vintage colour palette to create an elegant and nostalgic atmosphere. While this colour system supports the brand identity, some text and interface elements may not stand out clearly enough against the background. This can affect **readability**, especially for smaller labels, navigation text, item information and buttons. In future iterations, I would keep the vintage palette but increase the contrast of functional text. I would check key colour combinations against WCAG AA contrast requirements.
 
